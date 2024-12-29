@@ -2,7 +2,7 @@
   "name": "my-react-todo",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/my-react-todo",
+  "homepage": "https://Sharkiller666.github.io/my-react-todo",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
